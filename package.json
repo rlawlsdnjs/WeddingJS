@@ -1,9 +1,9 @@
 {
-  "name": "weddingsj",
+  "name": "weddingJS",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rlawlsdnjs.github.io/WeddingJS",
+  "homepage": "https://rlawlsdnjs.github.io/WeddingJS/",
 
   "scripts": {
     "dev": "vite",
